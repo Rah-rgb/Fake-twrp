@@ -36,7 +36,7 @@ chmod +x fake_twrp_color.sh
 6️⃣ add or prepare example scripts
 place .sh scripts inside the example_scripts folder
 make them executable:
-chmod +x fake_twrp_color.sh
+chmod +x /your/sh/file
 7️⃣ run the fake twrp tool
 ./fake_twrp_color.sh
 
