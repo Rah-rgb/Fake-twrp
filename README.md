@@ -41,3 +41,4 @@ chmod +x /your/sh/file
 ./fake_twrp_color.sh
 
 
+Note:you can also use the tool using mt manager by downloading and opening the file then click on "fake_twrp_color.sh" then click execute its more simple and easy.
